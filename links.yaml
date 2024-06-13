@@ -22,7 +22,6 @@ links:
       - text: LinkedIn
         icon: fa-brands fa-linkedin
         href: https://www.linkedin.com/in/benjaminwolkweiss/
-        wrap: tel
       - text: Email
         icon: fa-solid fa-envelope
         href: "mailto:benwolkweiss@gmail.com"
