@@ -17,7 +17,7 @@ config:
   touchicon: apple-touch-icon.png
 
 links:
-    - title: Contact
+  - title: Contact
     links:
       - text: LinkedIn
         icon: fa-brands fa-linkedin
